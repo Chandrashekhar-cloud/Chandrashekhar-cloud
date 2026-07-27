@@ -1,6 +1,3 @@
-whoami → SRE / DevOps Engineer in training
-status → uptime: still learning · downtime: never quitting
-
 </div>
 
 ---
@@ -8,9 +5,6 @@ status → uptime: still learning · downtime: never quitting
 ### ~/about
 
 Computer Science Engineering student who'd rather build a system that heals itself than write a postmortem about it. Living in Linux terminals, breaking things on purpose to learn how they fail.
-
-**Currently:** building self-healing infrastructure & observability tools
-**Obsessed with:** incident response, root cause analysis, systems that don't page you at 3am
 
 ---
 
@@ -24,7 +18,7 @@ Computer Science Engineering student who'd rather build a system that heals itse
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrashekhar-cloud&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="streak stats" />
+<img src="https://streak-stats.demolab.com/?user=Chandrashekhar-cloud&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="streak stats" />
 
 </div>
 
