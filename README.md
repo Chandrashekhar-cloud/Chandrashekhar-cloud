@@ -1,16 +1,18 @@
-</div>
+# Chandrashekhar H S
+
+> `whoami` → Computer Science Engineering Student | SRE & DevOps
 
 ---
 
 ### ~/about
 
-Computer Science Engineering student who'd rather build a system that heals itself than write a postmortem about it. Living in Linux terminals, breaking things on purpose to learn how they fail.
+Computer Science Engineering student focused on SRE and DevOps. Interested in Linux, automation, CI/CD, containers, observability, and system reliability.
 
 ---
 
 ### ~/stack
 
-`Python` `Bash` `Docker` `GitHub Actions` `Prometheus` `Grafana` `Linux` `SQLite` `Flask`
+`Linux` `Python` `Bash` `Docker` `Docker Compose` `Git` `GitHub Actions` `CI/CD` `Prometheus` `Grafana` `Loki` `Alertmanager` `Networking` `Troubleshooting`
 
 ---
 
@@ -18,7 +20,7 @@ Computer Science Engineering student who'd rather build a system that heals itse
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Chandrashekhar-cloud&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="streak stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandrashekhar-cloud&theme=github-compact&hide_border=true" />
 
 </div>
 
@@ -26,10 +28,10 @@ Computer Science Engineering student who'd rather build a system that heals itse
 
 ### ~/connect
 
-[Email](mailto:chandrashekharhs653@gmail.com) · [LinkedIn](https://linkedin.com/in/chandrashekhar-cloud) · [Portfolio](https://chandrashekhar-cloud.github.io)
+[Email](mailto:chandrashekharhs653@gmail.com) · [LinkedIn](https://linkedin.com/in/chandrashekhar-cloud)
 
 <div align="center">
 
-// it's not down, it's just resting
+`// it's not down, it's just resting`
 
 </div>
