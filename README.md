@@ -1,27 +1,27 @@
 # Chandrashekhar H S
 
-> `whoami` → CSE Student | AI Solutions Builder
+> `whoami` → CSE Student | SRE & DevOps | AI Solutions
 
-Claude • AI Automation • Business Workflows • Evaluation
+Linux • Automation • CI/CD • Cloud • AI Workflows • Claude • Reliability
 
 ---
 
 ### `~/stack`
 
+<p>
+<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,github,githubactions,prometheus,grafana,aws" />
+</p>
+
 `Claude API` • `Tool Calling` • `Custom Skills`
-`Structured Outputs` • `Python` • `Flask`
-`Ground-Truth Evaluation` • `Guardrails`
-`Human-in-the-Loop` • `MCP`
+`Structured Outputs` • `Evaluation` • `MCP`
 
 ---
 
-### `~/building`
+### `~/focus`
 
-`Recon Draft`
+`SRE & DevOps` → Linux • Automation • Observability • Reliability
 
-AI-assisted bank reconciliation built with Claude,
-deterministic verification, structured outputs,
-evaluation, and human approval.
+`AI Engineering` → Claude • AI Workflows • Evaluation • Guardrails
 
 ---
 
@@ -37,4 +37,4 @@ evaluation, and human approval.
 
 <br>
 
-`// don't just automate — verify`
+`// build reliable systems, automate intelligently`
