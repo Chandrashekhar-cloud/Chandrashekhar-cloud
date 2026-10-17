@@ -1,10 +1,10 @@
 # Chandrashekhar H S
 
 <p align="center">
-  <strong>AI Engineering | LLMs | Claude | MCP | Intelligent Automation</strong>
+  <strong>AI Solutions Builder | LLMs | Claude | MCP | Reliable Automation</strong>
   <br><br>
-  Building AI-powered workflows, connecting tools through MCP,
-  and engineering reliable automation.
+  Building practical AI workflows with LLMs and Claude, connecting them to real tools through MCP,
+  and engineering them with DevOps and SRE discipline so they actually stay reliable.
 </p>
 
 <p align="center">
@@ -17,24 +17,27 @@
   <a href="https://www.linkedin.com/in/chandrashekhar-cloud">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://chandrashekhar-cloud.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ### 🧠 AI & LLM Engineering
 
-`LLMs` · `Claude` · `Prompt Engineering` ·
-`Tool Calling` · `Structured Outputs`
+`LLMs` · `Claude` · `Prompt Engineering` · `Tool Calling` ·
+`Structured Outputs` · `AI Evaluation` · `Guardrails`
 
 ### 🔌 AI Integration & Automation
 
-`Model Context Protocol (MCP)` · `MCP Servers` ·
-`Custom Skills` · `Tool Integration` · `Workflow Automation`
+`Model Context Protocol (MCP)` · `MCP Servers` · `Custom Skills` ·
+`Tool Integration` · `Workflow Automation` · `Python` · `Flask`
 
-### 🛡️ Reliability Engineering
+### 🛡️ Reliability, DevOps & SRE
 
-`AI Evaluation` · `Guardrails` · `Error Handling` ·
-`Observability` · `Linux` · `Python` · `Bash`
+`Docker` · `GitHub Actions` · `CI/CD` · `Linux` · `Bash` ·
+`Prometheus` · `Grafana` · `Terraform` · `AWS` · `Observability`
 
 ---
 
@@ -48,7 +51,8 @@
   <img src="https://img.shields.io/badge/Claude-AI_Engineering-D97757?style=flat-square"/>
   <img src="https://img.shields.io/badge/LLMs-AI_Workflows-6C63FF?style=flat-square"/>
   <img src="https://img.shields.io/badge/MCP-Tool_Integration-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Automation-Workflow_Engineering-16803D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-16803D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SRE-Reliability-F59E0B?style=flat-square"/>
 </p>
 
 ---
@@ -64,21 +68,12 @@
        alt="Most Used Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chandrashekhar-cloud&theme=default&hide_border=true"
-       alt="GitHub Contribution Streak"/>
-</p>
-
 ---
 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Chandrashekhar-cloud&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_border=true"
-    alt="GitHub Contribution Activity"
-    width="100%"
-  />
+  <img src="https://ghchart.rshah.org/0969da/Chandrashekhar-cloud" alt="GitHub Contribution Chart" width="100%"/>
 </p>
 
 ---
@@ -88,7 +83,7 @@
 - Building practical applications with LLMs and Claude.
 - Connecting AI systems to external tools through MCP.
 - Designing reusable skills, structured workflows, and evaluation tests.
-- Applying automation and reliability principles to AI-powered systems.
+- Applying DevOps and SRE principles (CI/CD, monitoring, error handling) to AI-powered systems.
 
 ---
 
