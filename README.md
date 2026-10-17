@@ -74,8 +74,11 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandrashekhar-cloud&theme=minimal&hide_border=true&area=true"
-       alt="GitHub Contribution Activity"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Chandrashekhar-cloud&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_border=true"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
 </p>
 
 ---
