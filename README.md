@@ -1,10 +1,10 @@
-# Chandrashekhar H S
+# Hi, I'm Chandrashekhar H S 👋
 
 <p align="center">
-  <strong>AI Solutions Builder | LLMs | Claude | MCP | Reliable Automation</strong>
+  <strong>CSE (AI & ML) Student | Building with LLMs, Automation & Cloud</strong>
   <br><br>
-  Building practical AI workflows with LLMs and Claude, connecting them to real tools through MCP,
-  and engineering them with DevOps and SRE discipline so they actually stay reliable.
+  I like building practical things: AI-powered workflows, tool integrations,
+  and automation that is reliable enough to actually use.
 </p>
 
 <p align="center">
@@ -24,20 +24,25 @@
 
 ---
 
-### 🧠 AI & LLM Engineering
+### 👨‍💻 About Me
 
-`LLMs` · `Claude` · `Prompt Engineering` · `Tool Calling` ·
-`Structured Outputs` · `AI Evaluation` · `Guardrails`
+- 🎓 B.E. in Computer Science & Engineering (AI & ML) at Sahyadri College of Engineering and Management
+- 🤖 Exploring LLMs, Claude, and the Model Context Protocol (MCP)
+- ☁️ Learning DevOps, Linux, and cloud by building real projects
+- 🌱 Always shipping, breaking, and fixing things
 
-### 🔌 AI Integration & Automation
+---
 
-`Model Context Protocol (MCP)` · `MCP Servers` · `Custom Skills` ·
-`Tool Integration` · `Workflow Automation` · `Python` · `Flask`
+### 🧠 What I Work With
 
-### 🛡️ Reliability, DevOps & SRE
+**AI & LLMs**
+`LLMs` · `Claude` · `Prompt Engineering` · `Tool Calling` · `MCP` · `Custom Skills`
 
-`Docker` · `GitHub Actions` · `CI/CD` · `Linux` · `Bash` ·
-`Prometheus` · `Grafana` · `Terraform` · `AWS` · `Observability`
+**Automation & Backend**
+`Python` · `Flask` · `Bash` · `Workflow Automation` · `Git` · `GitHub Actions`
+
+**Cloud & DevOps**
+`Linux` · `Docker` · `CI/CD` · `AWS` · `Terraform` · `Prometheus` · `Grafana`
 
 ---
 
@@ -45,14 +50,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,githubactions,flask,aws,prometheus,grafana,terraform&perline=6" alt="Technology Stack"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude-AI_Engineering-D97757?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLMs-AI_Workflows-6C63FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MCP-Tool_Integration-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-16803D?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SRE-Reliability-F59E0B?style=flat-square"/>
 </p>
 
 ---
@@ -78,12 +75,12 @@
 
 ---
 
-### 🎯 Current Direction
+### 🎯 Currently Exploring
 
-- Building practical applications with LLMs and Claude.
-- Connecting AI systems to external tools through MCP.
-- Designing reusable skills, structured workflows, and evaluation tests.
-- Applying DevOps and SRE principles (CI/CD, monitoring, error handling) to AI-powered systems.
+- Building applications with LLMs and Claude
+- Connecting AI systems to external tools through MCP
+- Reusable skills, structured workflows, and evaluation tests
+- Automation and reliability practices for real-world systems
 
 ---
 
