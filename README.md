@@ -54,19 +54,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=Chandrashekhar-cloud&show_icons=true&theme=default&hide_border=true&rank_icon=github"
-       alt="GitHub Statistics"/>
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrashekhar-cloud&layout=compact&theme=default&hide_border=true&langs_count=6"
-       alt="Most Used Languages"/>
-</p>
-
----
-
 ### 📈 Contribution Activity
 
 <p align="center">
