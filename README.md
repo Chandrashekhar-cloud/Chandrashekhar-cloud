@@ -1,19 +1,26 @@
-# Hi, I'm Chandrashekhar H S 👋
+```bash
+chandrashekhar@github:~$ whoami
+Chandrashekhar H S
+
+chandrashekhar@github:~$ cat about.txt
+CSE (AI & ML) Student | Building with LLMs, Automation & Cloud
+
+chandrashekhar@github:~$ echo $MISSION
+Practical AI workflows, tool integrations, and automation
+that is reliable enough to actually use.
+
+chandrashekhar@github:~$ sudo ./start.sh --mode=build
+[ OK ] llm-apps   [ OK ] mcp-tools   [ OK ] linux
+[ OK ] ci-cd      [ OK ] observability
+```
 
 <p align="center">
-  <strong>CSE (AI & ML) Student | Building with LLMs, Automation & Cloud</strong>
-  <br><br>
-  I like building practical things: AI-powered workflows, tool integrations,
-  and automation that is reliable enough to actually use.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Chandrashekhar-cloud" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" align="middle"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:chandrashekharhs653@gmail.com" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" align="middle"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Chandrashekhar-cloud" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" align="middle"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/chandrashekhar-cloud" title="LinkedIn">
@@ -39,34 +46,43 @@
 ### 🧠 What I Work With
 
 **AI & LLMs**
-`LLMs` · `Claude` · `Prompt Engineering` · `Tool Calling` · `MCP` · `Custom Skills` · `OpenRouter` · `LLM Evaluation`
+`Claude` · `Custom Skills` · `LLM Evaluation` · `LLMs` · `MCP` · `OpenRouter` · `Prompt Engineering` · `Tool Calling`
 
 **Automation & Backend**
-`Python` · `TypeScript` · `Flask` · `REST APIs` · `QuickBooks API` · `Bash` · `Workflow Automation` · `Git` · `GitHub Actions`
+`Bash` · `Flask` · `Git` · `GitHub Actions` · `Python` · `QuickBooks API` · `REST APIs` · `TypeScript` · `Workflow Automation`
 
 **Testing**
-`Pytest` · `Jest` · `Golden-case Evals`
+`Golden-case Evals` · `Jest` · `Pytest`
 
 **Cloud & DevOps**
-`Linux` · `Docker` · `CI/CD` · `AWS` · `Nginx` · `Terraform` · `Prometheus` · `Grafana` · `Loki` · `Alertmanager`
+`Alertmanager` · `AWS` · `CI/CD` · `Docker` · `Grafana` · `Linux` · `Loki` · `Nginx` · `Prometheus` · `Terraform`
 
 ---
 
 ### ⚙️ Technology Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,bash,linux,ubuntu,docker,git,github,githubactions,flask,aws,nginx,postgres,prometheus,grafana,terraform,jest&perline=6" alt="Technology Stack"/>
-</p>
+**Core stack**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-6e40c9?style=flat-square" alt="Claude"/>
-  <img src="https://img.shields.io/badge/MCP-6e40c9?style=flat-square" alt="MCP"/>
-  <img src="https://img.shields.io/badge/OpenRouter-6e40c9?style=flat-square" alt="OpenRouter"/>
-  <img src="https://img.shields.io/badge/QuickBooks_API-2ca01c?style=flat-square" alt="QuickBooks API"/>
-  <img src="https://img.shields.io/badge/REST_APIs-0969da?style=flat-square" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Pytest-2ea44f?style=flat-square" alt="Pytest"/>
-  <img src="https://img.shields.io/badge/Loki-e6522c?style=flat-square" alt="Loki"/>
-  <img src="https://img.shields.io/badge/Alertmanager-e6522c?style=flat-square" alt="Alertmanager"/>
+  <img src="https://skillicons.dev/icons?i=aws,bash,docker,flask,git,github,githubactions,grafana,jest,linux,nginx,postgres,prometheus,python,terraform,ts,ubuntu&perline=9" alt="Technology Stack"/>
+</p>
+
+**AI, testing & observability**
+
+<p align="center">
+  <img src="https://personalportfolio-livid-one.vercel.app/assets/icons/alertmanager.svg" alt="Alertmanager" title="Alertmanager" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" title="Claude" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://personalportfolio-livid-one.vercel.app/assets/icons/loki.png" alt="Loki" title="Loki" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/modelcontextprotocol/8b949e" alt="MCP" title="Model Context Protocol (MCP)" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openrouter/6467F2" alt="OpenRouter" title="OpenRouter" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" alt="Pytest" title="Pytest" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/quickbooks/2CA01C" alt="QuickBooks" title="QuickBooks API" height="40"/>
 </p>
 
 ---
