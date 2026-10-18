@@ -5,23 +5,20 @@
   <br><br>
   I like building practical things: AI-powered workflows, tool integrations,
   and automation that is reliable enough to actually use.
-</p>
-
 <p align="center">
   <a href="https://github.com/Chandrashekhar-cloud">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:chandrashekharhs653@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/chandrashekhar-cloud">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://personalportfolio-livid-one.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ### 👨‍💻 About Me
