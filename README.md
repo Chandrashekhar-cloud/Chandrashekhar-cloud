@@ -3,15 +3,14 @@ chandrashekhar@github:~$ whoami
 Chandrashekhar H S
 
 chandrashekhar@github:~$ cat about.txt
-CSE (AI & ML) Student | Building with LLMs, Automation & Cloud
+Cloud & Site Reliability Engineering | Infrastructure · Observability · Automation
 
 chandrashekhar@github:~$ echo $MISSION
-Practical AI workflows, tool integrations, and automation
-that is reliable enough to actually use.
+Build reliable, observable, and automated cloud infrastructure.
 
-chandrashekhar@github:~$ sudo ./start.sh --mode=build
-[ OK ] llm-apps   [ OK ] mcp-tools   [ OK ] linux
-[ OK ] ci-cd      [ OK ] observability
+chandrashekhar@github:~$ sudo ./start.sh --mode=production
+[ OK ] linux   [ OK ] aws        [ OK ] terraform
+[ OK ] docker  [ OK ] ci-cd      [ OK ] observability
 ```
 
 <p align="center">
@@ -19,71 +18,52 @@ chandrashekhar@github:~$ sudo ./start.sh --mode=build
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" align="middle"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Chandrashekhar-cloud" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" align="middle"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/chandrashekhar-cloud" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" align="middle"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://personalportfolio-livid-one.vercel.app/" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPHRleHQgeD0iMzIiIHk9IjQ1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMzYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNmZmZmZmYiPkNTPC90ZXh0Pjwvc3ZnPgo%3D" alt="Portfolio" align="middle"/>
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="48" height="48" align="middle"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About
 
-- 🎓 B.E. in Computer Science & Engineering (AI & ML) at Sahyadri College of Engineering and Management
-- 🤖 Exploring LLMs, Claude, and the Model Context Protocol (MCP)
-- ☁️ Learning DevOps, Linux, and cloud by building real projects
-- 🌱 Always shipping, breaking, and fixing things
+- ☁️ I work on cloud infrastructure, CI/CD pipelines, and observability stacks
+- 📊 I build monitoring and alerting systems that surface problems before users do
+- 🐧 I automate Linux operations and system health checks with Bash and Python
+- 🎓 B.E. in Computer Science & Engineering (AI & ML), Sahyadri College of Engineering and Management
 
 ---
 
-### 🧠 What I Work With
+### 🧠 Expertise
 
-**AI & LLMs**
-`Claude` · `Custom Skills` · `LLM Evaluation` · `LLMs` · `MCP` · `OpenRouter` · `Prompt Engineering` · `Tool Calling`
+**Cloud & Infrastructure**
+`AWS` · `Terraform` · `Docker` · `Nginx` · `Linux`
 
-**Automation & Backend**
-`Bash` · `Flask` · `Git` · `GitHub Actions` · `Python` · `QuickBooks API` · `REST APIs` · `TypeScript` · `Workflow Automation`
+**CI/CD & Automation**
+`GitHub Actions` · `CI/CD` · `Bash` · `Python` · `Git`
 
-**Testing**
-`Golden-case Evals` · `Jest` · `Pytest`
-
-**Cloud & DevOps**
-`Alertmanager` · `AWS` · `CI/CD` · `Docker` · `Grafana` · `Linux` · `Loki` · `Nginx` · `Prometheus` · `Terraform`
+**Observability & Reliability**
+`Prometheus` · `Grafana` · `Loki` · `Alertmanager`
 
 ---
 
 ### ⚙️ Technology Stack
 
-**Core stack**
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,bash,docker,flask,git,github,githubactions,grafana,jest,linux,nginx,postgres,prometheus,python,terraform,ts,ubuntu&perline=9" alt="Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,ubuntu,nginx,git,githubactions,bash,python,prometheus,grafana&perline=6" alt="Technology Stack"/>
 </p>
 
-**AI, testing & observability**
+---
 
-<p align="center">
-  <img src="https://personalportfolio-livid-one.vercel.app/assets/icons/alertmanager.svg" alt="Alertmanager" title="Alertmanager" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" title="Claude" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://personalportfolio-livid-one.vercel.app/assets/icons/loki.png" alt="Loki" title="Loki" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/modelcontextprotocol/8b949e" alt="MCP" title="Model Context Protocol (MCP)" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openrouter/6467F2" alt="OpenRouter" title="OpenRouter" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" alt="Pytest" title="Pytest" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/quickbooks/2CA01C" alt="QuickBooks" title="QuickBooks API" height="40"/>
-</p>
+### 🚀 Selected Work
+
+- **CloudOps Observability Platform:** metrics, logs, and alerting with Prometheus, Grafana, Loki, and Alertmanager
+- **CI/CD Pipeline:** automated build, test, and containerized deployment with GitHub Actions and Docker
+- **Linux SRE Health Monitor:** automated system health checks and reporting using Bash
 
 ---
 
@@ -95,15 +75,15 @@ chandrashekhar@github:~$ sudo ./start.sh --mode=build
 
 ---
 
-### 🎯 Currently Exploring
+### 🎯 Focus Areas
 
-- Building applications with LLMs and Claude
-- Connecting AI systems to external tools through MCP
-- Reusable skills, structured workflows, and evaluation tests
-- Automation and reliability practices for real-world systems
+- Infrastructure as Code with Terraform on AWS
+- Containerized deployments and automated pipelines
+- Monitoring, logging, and alerting for reliability
+- Linux administration and operational automation
 
 ---
 
 <p align="center">
-  <strong>Build intelligently. Automate relentlessly. Engineer for reliability.</strong>
+  <strong>Automate relentlessly. Monitor everything. Engineer for reliability.</strong>
 </p>
